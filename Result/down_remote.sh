@@ -1,0 +1,1 @@
+scp 172.20.10.10:/home/yaohualiu/PycharmDir/StereoMatching/Result/*.ply .
